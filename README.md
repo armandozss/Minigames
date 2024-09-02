@@ -1,5 +1,6 @@
 # Minigames
 Welcome to my collection of mini-games developed using Python! 🎮🕹️
+
 In this repository, you'll find a variety of small and engaging games that showcase my skills in Python programming. Each game is designed to be simple yet fun, demonstrating different aspects of game development and coding techniques. Explore the code, try out the games, and feel free to contribute or provide feedback!
 
 Features
